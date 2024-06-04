@@ -1,0 +1,18 @@
+/*Selects all p elements inside div elements*/
+div p {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+
+/*Other solutions
+
+.container .text -Selects all text elements inside container class
+div > p -Selects all p elements whose parent element is div
+div .text -Selects all the text classes inside div element
+.container p -Selects all p element inside container class
+
+
+*/
+
